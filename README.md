@@ -1,22 +1,30 @@
 # Project.Alpha.1
 
-This Is My First Project.
+This Is My First Project As Data Analyst.
 
 This Repository Will Be Holding All My Code And Queries .
 
-.The Data I Use Is In THis Repository , The "  who_suicide_statistic   ". 
+The Data I Use : "who_suicide_statistics - Copy.xssx"
 
-the dataset is about suicide cases around 150 country and there are some null data
+I Start This Project With A Two Goal In Mind , Clean It And Visualize It. 
 
-In This Project , I Take Some Dataset From kaggle, and i explore the data to know what must be done
+In This Project , I Take Some Dataset From Kaggle, Explore The Data To Know What Must Be Done
 
-Cleaning The Data, Which Data Later To Use For Visualization, And I Also Able To Learn Many Things
-Like Using Group By Function, Sum Operator, How To Handle Null Data. Etc
+The Dataset is about suicide cases around 150 country 
 
-I Also Able To Train My Skill On Using Tableau.
+## Mission
 
-Making My Dashboard Look Nicer And Easy To Understand.
+1. Cleaning The Data ,Which Data Later To Use For Visualization <> In SQL
+2. Visual It <> In Tableau
+         
+         
+# Summary
 
-The Result , Dashboard Is In The Link Below
+I'm Able To Use My SQL Knowledge Into Realworld Problem , Like Using Group By Function, Sum Operator, How To Handle Null Data. Etc
 
-https://public.tableau.com/app/profile/alcyone
+I Also Able To Train My Skill On Using Tableau,  Making My Dashboard Look Nicer And Easy To Understand.
+
+#  Result
+
+This In My Result In Dashboard : https://public.tableau.com/app/profile/alcyone/viz/save2_16339665236140/Dashboard1
+
